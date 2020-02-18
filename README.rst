@@ -2,6 +2,8 @@
 Django Export Action
 =============================
 
+This fork moved to https://gitlab.com/rgarcia-herrera/django-export-action
+
 .. image:: https://badge.fury.io/py/django-export-action.svg
     :target: https://badge.fury.io/py/django-export-action
 
